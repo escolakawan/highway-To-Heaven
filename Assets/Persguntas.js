@@ -48,7 +48,7 @@ function criaCartao(categoria, pergunta, resposta) {
 }
 
 // Cartões com as perguntas e respostas
-criaCartao('Programação', 'O que é Python?', 'O Python é uma linguagem de programação');
-criaCartao('Geografia', 'Qual a capital da França?', 'A capital da França é Paris');
-criaCartao('Programação', 'O que é uma função?', 'Uma função é um bloco de código que executa alguma tarefa');
-criaCartao('Língua Inglesa', 'Como se diz OI em inglês?', 'Oi em inglês é HI (RAI)');
+criaCartao('Inteligencia Artificial', 'O que a Inteligência artificial faz?', 'Simular a Inteligência humana');
+criaCartao('Tecnologia', 'O que o ramo da tecnologia tem objetivo?', ':Criar máquinas capazes de simular hábitos humanos.');
+criaCartao('Inteligencia Artificial', 'quando foi criada a Inteligência Artificial?', '1943');
+criaCartao('Tecnologia', 'O que o ramo da tecnologia tem objetivo?', ':Criar máquinas capazes de simular hábitos humanos.');
